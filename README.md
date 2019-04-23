@@ -1,4 +1,4 @@
-# O Segredo de Zagan
+# The Secret Of Zagan
 
 A more story and puzzle driven text-based adventure game.
 Only available in Brazilian Portuguese.
